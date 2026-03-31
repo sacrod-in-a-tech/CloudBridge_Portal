@@ -18,7 +18,7 @@ CloudBridge Portal is a full-stack web application designed to provide a central
 ## Technologies Used
 Frontend: React, Vite, HTML, CSS, JavaScript
 Backend: Node.js, Express.js
-Database: MongoDB
+Database: Postgresql
 Version Control: Git & GitHub
 
 ## Installation
